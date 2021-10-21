@@ -26,4 +26,5 @@ I have repurposed a lot of code from the Udacity Machine Learning Nanodegree
 
 ## Blog Post
 If you would like to read more about the analysis from a non-technical perspective, the blog post can be found here:
+https://medium.com/@devilliers.j21/a-horse-under-the-weather-8c2c07bba59a
 
